@@ -3,7 +3,7 @@
 <plist version="1.0">
    <dict>
       <key>Description</key>
-      <string>Downloads the current release version of the Zoom Installer for IT and renames the installer package to match our naming standard.</string>
+      <string>Downloads the latest version of the Zoom Installer for IT and renames the installer package to match our naming standard.</string>
       <key>Identifier</key>
       <string>corp.galvanize.it.pkg.zoomit</string>
       <key>Input</key>
